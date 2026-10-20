@@ -1,14 +1,9 @@
+//Assignment 8: LC Branch and Bound Find the minimum-cost delivery tour that visits every city exactly once and returns to the starting city using Least Cost Branch and Bound.
 #include <iostream>
-
 #include <vector>
-
 #include <queue>
-
 #include <iomanip>
-
 using namespace std;
-
-
 #define INF 99999
 
 struct Node {
