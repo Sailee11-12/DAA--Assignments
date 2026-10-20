@@ -1,3 +1,4 @@
+//Assignment 6: 0/1 Knapsack Select essential relief items to maximize utility within a truck's weight limit \(W\). Compare Brute Force, Dynamic Programming, and Greedy approaches.
 #include <iostream>
 #include <vector>
 #include <algorithm>
