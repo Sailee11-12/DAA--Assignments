@@ -1,3 +1,4 @@
+//Assignment 3: Fractional Knapsack Select food, water, and medical supplies to maximize total utility within a boat's weight limit \(W\). Allow fractional selection of divisible items.
 #include <iostream>
 #include <vector>
 #include <algorithm>
