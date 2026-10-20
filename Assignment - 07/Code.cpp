@@ -1,3 +1,4 @@
+//Assignment 7: Graph Coloring Assign exam time slots to university courses without clashes. Minimize the number of slots and compare Greedy, DSATUR, and Welsh-Powell algorithms.
 #include <iostream>
 #include <vector>
 #include <map>
